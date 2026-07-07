@@ -128,7 +128,7 @@ ON step.sensorReadingTime = accel.timestamp
 
 This is an End to End data pipline project where i have seeked,understood knowledge on the concepts including data lakes , ETL and Data processing.
 
-the row count in the produced table is correct.
+the row count in the produced table is verified using Athena 
 
 Landing
 Customer: 956
